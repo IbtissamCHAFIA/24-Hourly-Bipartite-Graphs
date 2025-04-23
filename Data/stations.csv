@@ -1,0 +1,45 @@
+Station,Area,Depth_m,Latitude,Longitude,StudyStarts,LastDataDownload,GrandZone1,GrandZone2,Place
+H1,Grand Harbor,7,-22.26674722,166.4230833,28/11/2018,20/10/2023,Quai,Quai,QuaiPecheur
+H2,Grand Harbor,20.5,-22.23761701,166.397767,04/12/2018,23/08/2022,EntreeGrandRade,EntreeGrandRade,GrandRade
+H3,Grand Harbor,15.4,-22.24495,166.393533,04/12/2018,20/10/2023,EntreeGrandRade,EntreeGrandRade,GrandRade
+H4,Grand Harbor,18.5,-22.24121704,166.39565,04/12/2018,20/10/2023,EntreeGrandRade,EntreeGrandRade,GrandRade
+C1,Citrons Bay Wide Beach,6,-22.30384997,166.4331,16/01/2019,20/10/2023,LargePlages,Baie_citrons,RocherVoile
+C2,Citrons Bay Wide Beach,8,-22.295917,166.431333,16/01/2019,20/10/2023,LargePlages,LargeBD,Citron
+C3,Citrons Bay Wide Beach,8,-22.2998,166.432067,16/01/2019,20/10/2023,LargePlages,LargeBD,Citron
+P1,Small Harbor,13,-22.28568303,166.426133,16/01/2019,20/10/2023,EntreePetiteRade,EntreePetiteRade,PetiteRade
+V1,Vata Bay Wide Beach,5,-22.31578304,166.445917,17/01/2019,20/10/2023,LargePlages,Kite_FunBoard,Vata
+V2,Vata Bay Wide Beach,13,-22.30729996,166.437767,17/01/2019,20/10/2023,LargePlages,Kite_FunBoard,Vata
+V3,Vata Bay Wide Beach,7,-22.31063303,166.44235,17/01/2019,20/10/2023,LargePlages,Kite_FunBoard,Vata
+IC1,Islets,7,-22.31079999,166.434183,17/01/2019,20/10/2023,Canard,Canard,Canard
+SM1,Saint Marie Bay,11,-22.30804997,166.46465,18/01/2019,20/10/2023,EntreeStMarie,EntreeStMarie,StMarie
+SM2,Saint Marie Bay,14,-22.31021703,166.4711,18/01/2019,20/10/2023,EntreeStMarie,EntreeStMarie,StMarie
+SM3,Saint Marie Bay,14,-22.309233,166.467767,18/01/2019,20/10/2023,EntreeStMarie,EntreeStMarie,StMarie
+SM4,Saint Marie Bay Nautical Center,5,-22.30373296,166.46085,18/01/2019,20/10/2023,CentreNautique,CentreNautique,VoileStMarie
+SM5,Saint Marie Bay,5,-22.31288298,166.481717,21/01/2019,20/10/2023,PassageNgeaSong,PassageNgeaSong,SortieMarie
+M1,Magenta Bay,10,-22.28616701,166.48275,21/01/2019,20/10/2023,PassageNgeaSong,PassageNgeaSong,SortieMarie
+IM1,Islets,7,-22.331567,166.406917,21/01/2019,20/10/2023,ilots,ilots,Maitre
+M2,Magenta Bay,5,-22.26668302,166.47815,21/01/2019,20/10/2023,Magenta,Magenta,Magenta
+D1,Dumbea Bay,21,-22.231,166.346517,22/01/2019,20/10/2023,PointeBovis,PointeBovis,SortieDumbea
+IS1,Islets,12,-22.29355004,166.289467,22/01/2019,20/10/2023,ilots,ilots,Signal
+IS3,Islets,4,-22.32568298,166.318917,22/01/2019,20/10/2023,ilots,ilots,Laregere
+IS2,Islets,12,-22.29369999,166.331667,22/01/2019,20/10/2023,ilots,ilots,Senez
+C4,Citrons Bay Beachfront,6,-22.29649602,166.434214,29/07/2019,20/10/2023,BordPlages,Baie_citrons,Citron
+C5,Citrons Bay Beachfront,7,-22.29751401,166.436679,29/07/2019,20/10/2023,BordPlages,Baie_citrons,Citron
+C6,Citrons Bay Beachfront,3,-22.30008599,166.436643,29/07/2019,20/10/2023,BordPlages,Baie_citrons,Citron
+C7,Citrons Bay Beachfront,3,-22.30131604,166.434,29/07/2019,20/10/2023,BordPlages,Baie_citrons,Citron
+V4,Vata Bay Beachfront,3,-22.30494096,166.435955,29/07/2019,20/10/2023,BordPlages,Anse_Vata,Vata
+V5,Vata Bay Beachfront,3,-22.30450401,166.438775,29/07/2019,20/10/2023,BordPlages,Anse_Vata,Vata
+V6,Vata Bay Beachfront,3,-22.30421601,166.441574,29/07/2019,20/10/2023,BordPlages,Anse_Vata,Vata
+V7,Vata Bay Beachfront,3,-22.30469604,166.444529,29/07/2019,20/10/2023,BordPlages,Anse_Vata,Vata
+V8,Vata Bay Beachfront,3,-22.30679101,166.446169,29/07/2019,20/10/2023,BordPlages,Anse_Vata,Vata
+V9,Vata Bay Beachfront,3,-22.30925202,166.446979,29/07/2019,20/10/2023,BordPlages,Anse_Vata,Vata
+V10,Vata Bay Beachfront,3,-22.31090301,166.445753,29/07/2019,20/10/2023,BordPlages,Anse_Vata,Vata
+SM6,Saint Marie Bay Nautical Center,3,-22.30274096,166.459421,29/07/2019,20/10/2023,CentreNautique,CentreNautique,VoileStMarie
+SM7,Saint Marie Bay Nautical Center,3,-22.30560397,166.462283,29/07/2019,21/10/2023,CentreNautique,CentreNautique,VoileStMarie
+IC2,Islets,3,-22.31323401,166.439128,29/07/2019,20/10/2023,Canard,Kite_FunBoard,Canard
+IC3,Islets,3,-22.31297602,166.433594,29/07/2019,20/10/2023,Canard,Canard,Canard
+P2,Small Harbor,3,-22.28899498,166.439138,30/07/2019,20/10/2023,marina,marina,PortBrunelet
+P3,Small Harbor,3,-22.28884402,166.439832,30/07/2019,20/10/2023,marina,marina,Sunset
+P4,Small Harbor,3,-22.28571002,166.441111,30/07/2019,20/10/2023,marina,marina,PortSud
+P5,Small Harbor,3,-22.29067404,166.436307,30/07/2019,20/10/2023,marina,marina,CNC
+P6,Small Harbor,3,-22.27740398,166.437311,30/07/2019,21/10/2023,marina,marina,PortMoselle
